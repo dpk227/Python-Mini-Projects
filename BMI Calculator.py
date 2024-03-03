@@ -1,3 +1,4 @@
+# Body Mass Calculator
 # BMI = Body mass in kg / (Height in meter)^2
 # Create a platform to calculate BMI
 fname = input("Enter your first name: ")
